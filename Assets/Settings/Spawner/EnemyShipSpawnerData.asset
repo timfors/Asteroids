@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79c2c13b1a9eba142bfab3b12e7dc4b5, type: 3}
+  m_Name: EnemyShipSpawnerData
+  m_EditorClassIdentifier: 
+  maxShips: 1
+  shipInstances:
+  - {fileID: 3375965207415178703, guid: 53ae92adf145217498f16a390e74cce1, type: 3}
+  minDelay: 20
+  maxDelay: 30

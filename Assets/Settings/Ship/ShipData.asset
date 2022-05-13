@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10144f8826071694bb7f101b64263bc2, type: 3}
+  m_Name: ShipData
+  m_EditorClassIdentifier: 
+  ship: {fileID: 7381117953561537870, guid: fd1f5dcdf4a8d1747821318cfd6e9c31, type: 3}
+  mainWeapon: {fileID: 11400000, guid: dd40de3475e620b498b06ae217922ae4, type: 2}
+  secondWeapon: {fileID: 11400000, guid: 7b09e7f1ba9ccb6459d902fb694cb474, type: 2}
+  MovementData:
+    moveVelocityScale: {x: 10, y: 10}
+    maxMoveSpeed: {x: 10, y: 10}
+    rotationVelocityScale: 360
+    maxRotationSpeed: 320

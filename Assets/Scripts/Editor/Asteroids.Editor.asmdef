@@ -1,0 +1,19 @@
+{
+    "name": "Asteroids.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:77f3760ed757d58438fc81db050fee3d",
+        "GUID:41b6e33a9430a09489d13c0c891f628b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
